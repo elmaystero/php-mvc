@@ -10,6 +10,8 @@ class Application
 
     /** @var null Parameter one */
     private $url_parameter_1 = null;
+    
+    private $test=new Controller();
 
     /** @var null Parameter two */
     private $url_parameter_2 = null;
